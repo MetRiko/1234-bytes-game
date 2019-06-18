@@ -1,0 +1,19 @@
+﻿5,65 KB (bajtów: 5 788)
+5,48 KB (bajtów: 5 617)
+5,33 KB (bajtów: 5 461)
+5,16 KB (bajtów: 5 288)
+4,65 KB (bajtów: 4 762)
+4,36 KB (bajtów: 4 468)
+4,32 KB (bajtów: 4 432)
+
+Delta: 1356
+Max: 1234
+MaxWithSpaces: 2590
+
+Map_c
+Map
+Player
+Ghosts[5]
+Bonus
+GS
+DMap
